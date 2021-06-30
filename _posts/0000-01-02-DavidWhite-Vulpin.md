@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Chickens are might fine animals
 Use the left arrow to go back!
